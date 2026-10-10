@@ -12,7 +12,7 @@ I configured AD DS, DNS, DHCP, and routing, used an existing PowerShell script t
 | --- | --- |
 | Hypervisor | Oracle VirtualBox |
 | Domain controller | `DC` — Windows Server 2022 Standard Evaluation, Desktop Experience |
-| Client | `CLIENT1` — Windows 10 |
+| Client | `CLIENT1` — Windows 10 Pro |
 | Domain | `mydomain.com` |
 | Virtual networking | DC: NAT + Internal Network; client: Internal Network (`intnet`) |
 | Internal subnet | `172.16.0.0/24`; DC: `172.16.0.1` |
