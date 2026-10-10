@@ -20,7 +20,7 @@ The initial setup is complete. As I expand the lab, I’ll document individual e
 | Folder | Description | Status |
 | --- | --- | --- |
 | [Active Directory Setup](./Active%20Directory%20Setup/) | Building the domain, configuring networking and server roles, creating users, and validating client connectivity and domain sign-in | Complete |
-| Active Directory Exercises | Administration and cybersecurity exercises, with a separate folder and README for each exercise | Planned |
+| Active Directory Exercises | Administration and cybersecurity exercises | Planned |
 
 ## Planned Exercises
 
@@ -32,12 +32,6 @@ The initial setup is complete. As I expand the lab, I’ll document individual e
 - **Windows event logs:** Review failed sign-ins, account lockouts, and account or group changes using activity generated in the lab.
 - **PowerShell automation:** Automate account and group management tasks and verify the changes.
 - **Troubleshooting:** Investigate sign-in, DNS, connectivity, permissions, and policy application issues.
-
-## Documentation Approach
-
-Each exercise will explain what I configured, why I made the change, and how I tested it. I’ll include relevant screenshots or command output and document problems and fixes when they add useful context.
-
-For access control exercises, I’ll test both successful access and expected restrictions using different accounts.
 
 ## Current Progress
 
