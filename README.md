@@ -10,7 +10,7 @@ The initial setup is complete. As I expand the lab, I’ll document individual e
 
 - **Virtualization:** Oracle VirtualBox
 - **Domain controller:** Windows Server 2022
-- **Client:** Domain-joined Windows 10 endpoint
+- **Client:** Domain-joined Windows 10 Pro endpoint
 - **Domain:** `mydomain.com`
 - **Services:** Active Directory Domain Services, DNS, DHCP, and Routing and Remote Access
 - **Tools:** PowerShell and Windows administration consoles
