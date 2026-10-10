@@ -1,4 +1,4 @@
-# Active Directory Home Lab
+# Active Directory Home Lab Setup
 
 ## Overview
 
@@ -73,5 +73,4 @@ Finally, I signed in to CLIENT1 as `jbybee`. Running `whoami` returned `mydomain
 
 ## References
 
-- [Josh Madakor — Active Directory home lab tutorial](https://www.youtube.com/watch?v=MHsI8hJmggI)
 - [Josh Madakor — 1_CREATE_USERS.ps1](https://github.com/joshmadakor1/AD_PS/blob/master/1_CREATE_USERS.ps1)
